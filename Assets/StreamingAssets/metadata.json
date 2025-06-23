@@ -1,0 +1,99 @@
+{
+  "entries": [
+    {
+      "ID": "313171",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313199",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313240",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313285",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313373",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313415",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313466",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313523",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313591",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313742",
+      "Type": "Wall-Ext_102Bwk-75Ins-100LBlk-12P",
+      "FireRating": "FW60"
+    },
+    {
+      "ID": "313886",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "313948",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314038",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314134",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314209",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314240",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314317",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314493",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    },
+    {
+      "ID": "314568",
+      "Type": "Wall-Partn_12P-75Std-12P",
+      "FireRating": "FW20"
+    }
+  ]
+}
