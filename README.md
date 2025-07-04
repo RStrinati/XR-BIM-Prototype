@@ -12,3 +12,5 @@ Starter Unity project for BIM overlay in XR with offline support.
 - **SLAMIntegration** - Optional SLAM research and integration
 
 See `PROJECT_PLAN.md` for a roadmap of upcoming features.
+
+https://www.notion.so/strinati-design/AR-Construction-Viewer-Home-Page-226a74d57cd080f681a8ea125c651a30?source=copy_link
